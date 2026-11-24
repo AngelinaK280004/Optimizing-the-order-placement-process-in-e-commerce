@@ -10,4 +10,5 @@
 4.  **Идемпотентность:** На уровне бэкенда внедряется Idempotency-Key для защиты от двойных списаний при повторных кликах или сбоях сети.
 
 ## Визуализация
-![BPMN TO-BE](./bpmn_to_be.png)
+<img width="5124" height="1440" alt="bpmn_to_be" src="https://github.com/user-attachments/assets/ffa033f2-d9a3-4db4-b4d2-765cfa3e0624" />
+
