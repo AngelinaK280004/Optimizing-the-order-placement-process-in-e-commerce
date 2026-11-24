@@ -10,4 +10,4 @@
 *   **Математическая валидация:** В ходе анализа были выявлены и устранены несоответствия в исходной воронке. Итоговое распределение 75% отказов было приведено к 100% (5% + 40% + 25% + 20% + 10%).
 
 ## Визуализация
-![BPMN AS-IS](Optimizing-the-order-placement-process-in-e-commerce/bpmn_as_is.png)
+<img width="7314" height="1779" alt="bpmn_as_is" src="https://github.com/user-attachments/assets/27dc0fc1-8bc9-4757-82b2-17745731f1b3" />
